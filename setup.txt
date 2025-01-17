@@ -1,0 +1,6 @@
+1- run this command "composer install"
+2- duplicate .env.example to .env
+3- create a database and type its name in .env file
+4- run this command "php artisan jwt:secret"
+5- run this command "php artisan migrate --seed"
+6- run this command "php artisan serve"
